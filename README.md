@@ -16,6 +16,8 @@ The assessment evaluates current maturity across all six CSF 2.0 functions (Gove
 
 [Full company profile →](./01_company_profile.md)
 
+[Operational addendum →](./01b_operational_context.md)
+
 ## Scope
 
 In scope:
