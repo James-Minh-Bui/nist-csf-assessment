@@ -70,7 +70,7 @@ Each finding is captured with severity (1-5), effort (S/M/L/XL), and a recommend
 
 **James Bui** — Security+ certified, transitioning from commercial real estate lending to cybersecurity Governance, Risk, and Compliance. Currently building a portfolio of GRC artifacts targeting a GRC Analyst role for late summer / early fall 2026.
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Portfolio site](https://your-portfolio.example)
+[LinkedIn](https://www.linkedin.com/in/jamesminhbui/)
 
 ---
 

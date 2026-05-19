@@ -1,0 +1,21 @@
+cat > .gitignore << 'EOF'
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Office temp files
+~$*.xlsx
+~$*.docx
+.~lock.*
+
+# Sensitive — never commit
+*.env
+secrets/
+credentials.*
+EOF
